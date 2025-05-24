@@ -57,3 +57,10 @@
 ## 🗣️ 反馈与贡献
 
 如果你发现了 Bug 或有功能建议，欢迎[提交 Issue](https://github.com/ResistanceTo/Unlock-Watch/issues)或参与贡献！
+
+## 📱 用户界面
+
+<p align="center">
+  <img src="1.png" alt="截图1" width="45%"/>
+  <img src="2.png" alt="截图2" width="45%"/>
+</p>
