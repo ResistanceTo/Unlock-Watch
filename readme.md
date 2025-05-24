@@ -1,9 +1,10 @@
 <img src="./logo.png" width="160" alt="App icon" align="left"/>
 
-# **UnlockWatch**
-
-Seamlessly connect newer versions of watchOS with older iOS devices  
-[**⬇️ Download**](https://github.com/ResistanceTo/Unlock-Watch/releases)
+<div>
+<h3>UnlockWatch</h3>
+<p>Seamlessly connect newer versions of watchOS with older iOS devices  </p>
+<a href="https://github.com/ResistanceTo/Unlock-Watch/releases">⬇️ Download</a>
+</div>
 
 <br/>
 
@@ -20,13 +21,9 @@ Seamlessly connect newer versions of watchOS with older iOS devices
 
 [English](readme.md) | [简体中文](readme_zh-Hans.md)
 
----
-
 ## 🔧 What is UnlockWatch?
 
 **UnlockWatch** is a utility tool designed to help older versions of **iOS** unlock compatibility with newer versions of **watchOS**. Perfect for users who rely on jailbreak or tools like **TrollStore**, it bridges the version gap that Apple normally enforces between iPhone and Apple Watch.
-
----
 
 ## 🧪 Tested On
 
@@ -38,14 +35,10 @@ Seamlessly connect newer versions of watchOS with older iOS devices
   iOS: **16.4.1**  
   watchOS: **11.3**
 
----
-
 ## ✅ Requirements
 
 - **iOS 15.0 or later**
 - Requires **TrollStore** or a **jailbroken environment**
-
----
 
 ## 💡 Key Features
 
@@ -53,17 +46,11 @@ Seamlessly connect newer versions of watchOS with older iOS devices
 - Bypass version restrictions that typically prevent pairing
 - Easy to install and use for jailbreak users
 
----
-
 ## 📎 Notes
 
 - Functionality may vary depending on device model and iOS/watchOS version
 - Use at your own risk – recommended for advanced users or developers
 
----
-
 ## 🗣️ Feedback & Contributions
 
 Found a bug or have an idea? [Open an issue](https://github.com/ResistanceTo/Unlock-Watch/issues) or contribute to the project!
-
----
